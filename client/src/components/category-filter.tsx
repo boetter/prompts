@@ -25,7 +25,7 @@ export default function CategoryFilter({ selectedCategory, onCategoryChange }: C
           selectedCategory === "all" && "bg-primary"
         )}
       >
-        All Categories
+        Alle kategorier
       </Button>
       {promptCategories.map((category) => {
         const isSelected = selectedCategory === category;
