@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://promptbibliotek.netlify.app/sitemap.xml
