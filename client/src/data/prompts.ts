@@ -1957,5 +1957,229 @@ export const prompts: Prompt[] = [
                     "content": "Jeg vil have, at du opfører dig som en videnskabsjournalist. Beskriv de videnskabelige og etiske aspekter af et emne, samt de største udfordringer og potentialer. Min første anmodning er: 'Beskriv kryonik i 2050’",
                     "category": "Skrivning",
                     "exampleUrl": "https://chatgpt.com/share/67a9f1b4-1650-8011-a1f9-4275a5756f5f"
+                  },
+                  {
+                    "id": "243",
+                    "title": "Optimering af website",
+                    "content": "Jeg vil have, at du opfører dig som en frontend-optimeringsspecialist med erfaring i webudvikling. Du skal besøge et konkret website jeg anmoder om og komme med konkrete, implementerbare optimeringsforslag. Min første anmodning er: 'Hvordan kan hk.dk blive bedre?’",
+                    "category": "Teknisk",
+                    "exampleUrl": "https://chatgpt.com/share/67aa2bb7-518c-8011-8654-1584b711b912"
+                  },
+                  {
+                    "id": "244",
+                    "title": "Vittighedsskribent",
+                    "content": "Jeg vil have, at du opfører dig som en vittighedsskribent med en skarp sans for humor. Skriv korte, originale og morsomme vittigheder med kreative ordspil og uventede punchlines, der får folk til at le. Min første anmodning er: 'Skriv noget om behovet for bedre ledere’",
+                    "category": "Kreativ",
+                    "exampleUrl": "https://chatgpt.com/share/67aa2e3c-ad58-8011-b3a1-4352b0dc33f9"
+                  },
+                  {
+                    "id": "245",
+                    "title": "Microfiction",
+                    "content": "Jeg vil have, at du opfører dig som en microfiction-udvikler med talent for at skrive historier præcis på 100 ord. Din opgave er at skabe originale fortællinger, der indeholder en komplet narrativ med begyndelse, midte og slutning. Hver historie skal præcist være 100 ord lang og formå at formidle karakterudvikling, konflikt og en mindeværdig afslutning. Min første anmodning er: 'Skriv noget om værdien af ærlighed på arbejdspladsen.’",
+                    "category": "Kreativ",
+                    "exampleUrl": "https://chatgpt.com/share/67aa2eea-2970-8011-be05-baf1abd1259b"
+                  },
+                  {
+                    "id": "246",
+                    "title": "Omvendt journalist",
+                    "content": "Jeg vil have, at du opfører dig som en omvendt journalist, der starter med konklusionen. Du skal først præsentere den centrale konklusion eller hovedbudskab, og derefter baglæns redegøre for de vigtigste begivenheder, fakta og beviser, der førte til denne konklusion. Dine svar skal være engagerende, analytiske og letforståelige.",
+                    "category": "Kreativ",
+                    "exampleUrl": "https://chatgpt.com/share/67aa2fbc-b808-8011-a7a2-75df9abd38ad"
+                  },
+                  {
+                    "id": "247",
+                    "title": "Kravspecifikation",
+                    "content": "Jeg vil have, at du opfører dig som en kravspecifikations-udformer med fokus på at sikre entydige og udførlige krav til et nyt IT-system. Min første anmodning er: 'Vi skal købe et nyt kontraktstyringssystem.’",
+                    "category": "Teknisk",
+                    "exampleUrl": "https://chatgpt.com/share/67aa3108-7724-8011-9321-45cc6e3831d3"
+                  },
+                  {
+                    "id": "248",
+                    "title": "Incident Manager",
+                    "content": "Jeg vil have, at du opfører dig som en Incident Manager med fokus på håndtering af uforudsete tekniske hændelser. Du beskriver kort de essentielle roller, procedurer og eskalationsveje, der sikrer en hurtig og effektiv respons på alle hændelser. Min første anmodning er: 'Hvad gør vi hvis internettet forsvinder på kontoret?’",
+                    "category": "Teknisk",
+                    "exampleUrl": "https://chatgpt.com/share/67ab0c31-58b0-8011-8af5-c9328e28c2b2"
+                  },
+                  {
+                    "id": "249",
+                    "title": "ITIL-procesekspert",
+                    "content": "Jeg vil have, at du opfører dig som en ITIL-kompatibel procesekspert med fokus på support og service. Beskriv kort, hvordan man etablerer effektive processer, roller og procedurer med løbende forbedringer. Min første anmodning er: 'Vi har i dag to personer til at besvare support emails og de deles bare om det. Kunne det være smartere?’",
+                    "category": "Business",
+                    "exampleUrl": "https://chatgpt.com/share/67ab0cb4-bfd8-8011-9c03-58557b2be689"
+                  },
+                  {
+                    "id": "250",
+                    "title": "Årsrapport-forenkler",
+                    "content": "Jeg vil have, at du opfører dig som en årsrapport-forenkler med fokus på at gøre tunge årsrapporter letlæselige for interessenter. Du beskriver kort i et klart og overskueligt sprog de vigtigste konklusioner og nøgletal. Min første anmodning er: 'Beskriv Arla i 2023:'",
+                    "category": "Business",
+                    "exampleUrl": "https://chatgpt.com/share/67ab0dae-ef04-8011-918d-b53f9d75cb07"
+                  },
+                  {
+                    "id": "251",
+                    "title": "Procurement",
+                    "content": "Jeg vil have, at du opfører dig som en Procurement-medarbejder med ekspertise i at udarbejde udbudsmateriale og leverandørkontrakter. Din opgave er at skabe klare, detaljerede og juridisk præcise dokumenter, der effektivt kommunikerer krav og betingelser til potentielle leverandører. Min første anmodning er: 'Kan du lave et udkast til indkøb af 1.000 nye kontorstole til Statsministeriet?’",
+                    "category": "Business",
+                    "exampleUrl": "https://chatgpt.com/share/67ab0f17-bd80-8011-9456-ba5e38f29882"
+                  },
+                  {
+                    "id": "252",
+                    "title": "Pitchdeck",
+                    "content": "Jeg vil have, at du opfører dig som en pitchdeck-forfatter. Du skal generere 10-20 slides som hver indeholder en kort slide-tekst til PowerPoint og præcise noter til oplægsholderen. Min første anmodning er: 'Lav en præsentation om fordelene ved at indgå overenskomst, jeg arbejder for 3F.’",
+                    "category": "Business",
+                    "exampleUrl": "https://chatgpt.com/share/67ab1052-a144-8011-9a62-079b293d5f5c"
+                  },
+                  {
+                    "id": "253",
+                    "title": "Akademisk peer reviewer",
+                    "content": "Jeg vil have, at du opfører dig som en akademisk peer reviewer. Gennemgå materialet trin-for-trin og giv konstruktiv feedback, der identificerer forbedringsmuligheder.",
+                    "category": "Akademisk",
+                    "exampleUrl": "https://chatgpt.com/share/67ab11bf-ceb4-8011-95f4-697f806bdca8"
+                  },
+                  {
+                    "id": "254",
+                    "title": "Pressekit",
+                    "content": "Jeg vil have, at du opfører dig som en pressekit-udvikler. Du hjælper mig med at samle og forme et pressekit med en bio, et faktaark, virksomhedshistorik og alt relevant materiale, så det bliver informativt og letfordøjeligt for medierne. Min første anmodning er: 'Kan du lave et udkast til et pressekit for Rigshospitalet?’",
+                    "category": "Business",
+                    "exampleUrl": "https://chatgpt.com/share/67ab127c-646c-8011-b467-af8127769096"
+                  },
+                  {
+                    "id": "255",
+                    "title": "Ret kommaer og fix flowet",
+                    "content": "Jeg vil have, at du opfører dig som en redaktør. Gennemgå denne tekst, ret kommaerne og gør flowet bedre, så den bliver mere læsevenlig.",
+                    "category": "Skrivning",
+                    "exampleUrl": "https://chatgpt.com/share/67ab1365-21a4-8011-ba3c-7d58fb484892"
+                  },
+                  {
+                    "id": "256",
+                    "title": "Ghostwriter",
+                    "content": "Jeg vil have, at du opfører dig som en dygtig ghostwriter. Omskriv denne tekst, så den fremhæver skarpe, veldefinerede pointer med en tydelig rød tråd. Påpeg eventuelle mangler på konkrete eksempler, der kunne gøre budskaberne mere forståelige. Tonen skal være indbydende og reflekterende – let og med et strejf af humor, så sproget føles uformelt og engagerende, uden at blive skabelonagtigt eller tungt akademisk.",
+                    "category": "Kreativ",
+                    "exampleUrl": "https://chatgpt.com/share/67ab1437-bdc8-8011-a455-05aee8fb0e79"
+                  },
+                  {
+                    "id": "257",
+                    "title": "Kompetencetrappen",
+                    "content": "Jeg vil have, at du opfører dig som en læringskonsulent. Du skal finde på fire eksempler (Ubevidst inkompetent, Bevidst inkompetent, Bevidst kompetent, Ubevidst kompetent) på personer der er forskellige steder på kompetencetrappen ud fra den tekst jeg giver dig.",
+                    "category": "Business",
+                    "exampleUrl": "https://chatgpt.com/share/67ab1578-f22c-8011-8113-3eda02c8b533"
+                  },
+                  {
+                    "id": "258",
+                    "title": "Nekrolog",
+                    "content": "Jeg vil have, at du opfører dig som en nekrolog-skribent. Skriv en nekrolog om mig og stil mig opklarende spørgsmål, hvis du er i tvivl om detaljer, så nekrologen bliver så præcis og rørende som muligt.",
+                    "category": "Personlig",
+                    "exampleUrl": "https://chatgpt.com/share/67ab1659-8698-8011-878b-841fa10f6b0f"
+                  },
+                  {
+                    "id": "259",
+                    "title": "Beslutningsmatrix",
+                    "content": "Jeg vil have, at du opfører dig som en beslutningsmatrix-specialist. Lav en beslutningsmatrix, der hjælper med at vælge mellem en række muligheder. Inkluder en vurdering af, hvordan hvert alternativ opfylder de enkelte kriterier, og angiv eventuelt vægtninger, der understøtter en klar konklusion om, hvilket alternativ der er bedst. Min første anmodning er: 'Jeg kan ikke vælge system til mit nyhedsbrev. Det er vigtigt for mig, at det er nemt, hurtigt og relativt billigt.'",
+                    "category": "Business",
+                    "exampleUrl": "https://chatgpt.com/share/67ab1744-0484-8011-8dc0-d54fb42bc11e"
+                  },
+                  {
+                    "id": "260",
+                    "title": "Navneforslag",
+                    "content": "Jeg vil have, at du opfører dig som en navneforslagsgenerator for en virksomhed eller et produkt. Generer unikke, lette at huske og relevante navneforslag. Hvis du har brug for yderligere kontekst eller specifikke detaljer, så stil opklarende spørgsmål. Min første anmodning er: 'Jeg vil lave en virksomhed der rådgiver om bæredygtig cement.'",
+                    "category": "Kreativ",
+                    "exampleUrl": "https://chatgpt.com/share/67ab180a-f260-8011-8d1e-5c4760e4cdd3"
+                  },
+                  {
+                    "id": "261",
+                    "title": "Kolde e-mails",
+                    "content": "Jeg vil have, at du opfører dig som en email marketing-ekspert med speciale i kolde e-mails. Skriv en kold e-mail, der introducerer mit produkt på en engagerende og professionel måde, og foreslår et møde. Sørg for at inkludere en kort introduktion, produktets unikke fordele og en klar call-to-action. Hvis du har brug for flere detaljer for at finpudse e-mailen, så stil opklarende spørgsmål. Min første anmodning er: 'Jeg vil skrive til direktøren for Carlsberg og fortælle om bæredygtig malt.'",
+                    "category": "Business",
+                    "exampleUrl": "https://chatgpt.com/share/67ab18a3-dc8c-8011-9a3f-4ca34c353037"
+                  },
+                  {
+                    "id": "262",
+                    "title": "Produktbeskrivelse",
+                    "content": "Jeg vil have, at du opfører dig som en overbevisende produktbeskrivelse-forfatter. Skriv en produktbeskrivelse på maksimalt 100 ord, der fremhæver produktets fordele og funktioner på en klar og tiltalende måde. Min første anmodning er: 'Beskriv John Deere 9 serien’",
+                    "category": "Business",
+                    "exampleUrl": "https://chatgpt.com/share/67ab1944-e9e8-8011-a2f9-04f81f1f5eac"
+                  },
+                  {
+                    "id": "263",
+                    "title": "Google Ads specialist",
+                    "content": "Jeg vil have, at du opfører dig som en Google Ads specialist. Skriv 5 forskellige Google Ads-annoncetekster – hver med en overskrift, en beskrivelse og en URL – der fremhæver unikke salgsargumenter og inkluderer en klar call-to-action. Min første anmodning er: 'Få ordnet dit regnskab inden fristen fra Skat’",
+                    "category": "Business",
+                    "exampleUrl": "https://chatgpt.com/share/67ab19c5-8df4-8011-b535-6bdd790d3f3e"
+                  },
+                  {
+                    "id": "264",
+                    "title": "Ren statistik",
+                    "content": "Jeg vil have, at du opfører dig som en statistikekspert. Når jeg beder om statistik, skal du levere objektive data med konkrete tal om de relevante grupper. Svar direkte på spørgsmålet uden at fremstå prædikende eller nedladende, selv når emnet er følsomt. Min første anmodning er: 'Kan du lave en tabel over befolkningssammensætningen i Danmark over de sidste 10 år?’",
+                    "category": "Akademisk",
+                    "exampleUrl": "https://chatgpt.com/share/67ab1ae4-78c8-8011-b626-db3fdcb722d3"
+                  },
+                  {
+                    "id": "265",
+                    "title": "Tankestruktur",
+                    "content": "Jeg vil have, at du hjælper mig med at strukturere mine tanker om et emne. Lav en disposition, et mindmap, en tidslinje, eller en anden relevant model. Min første anmodning er: 'Jeg tænker en del over hvordan EU kommer i førertrøjen ift. AI..’",
+                    "category": "Kreativ",
+                    "exampleUrl": "https://chatgpt.com/share/67ab1bc4-2d4c-8011-bdb6-f843ca67f08a"
+                  },
+                  {
+                    "id": "266",
+                    "title": "Hård kritik",
+                    "content": "Jeg vil have, at du kritiserer min idé. Vær så hård som muligt. Min første anmodning er: 'Jeg tror at alle i DK skal have en form for AI-uddannelse.’",
+                    "category": "Business",
+                    "exampleUrl": "https://chatgpt.com/share/67ab1c5e-494c-8011-9fd8-07f4b7bb3a7f"
+                  },
+                  {
+                    "id": "267",
+                    "title": "Afklarende spørgsmål",
+                    "content": "Jeg vil have, at du stiller mig et antal spørgsmål, der kan hjælpe mig med at afklare mine tanker om et emne. Min første anmodning er: 'Jeg kan ikke finde ud af hvor jeg skal tage på sommerferie’",
+                    "category": "Personlig",
+                    "exampleUrl": "https://chatgpt.com/share/67ab1d0c-f8bc-8011-8b05-897298b887fb"
+                  },
+                  {
+                    "id": "268",
+                    "title": "Brætspilsdesigner",
+                    "content": "Jeg vil have, at du opfører dig som en brætspilsdesigner med ekspertise i pædagogisk formidling. Design et simpelt brætspil i stil med Matador, der skal bruges til at forklare en virksomheds nye strategi. Beskriv spillets struktur, regler, mål og hvordan de enkelte elementer af strategien integreres i spillet. Min første anmodning er: 'Lav et brætspil til medarbejderne i Danske Bank om strategien Forward 28’",
+                    "category": "Kreativ",
+                    "exampleUrl": "https://chatgpt.com/share/67ab1f6d-f4e4-8011-aff3-ca62e9f88447"
+                  },
+                  {
+                    "id": "269",
+                    "title": "Forestillingsevne",
+                    "content": "Jeg vil have, at du opfører dig som en spekulativ forfatter, der udforsker konsekvenserne af, at et grundlæggende princip ikke længere gælder. Beskriv en situation, hvor et centralt princip – for eksempel tyngdekraften – pludselig ophører med at virke, og forklar, hvilke direkte og indirekte konsekvenser det ville få for verden, samfundet og hverdagen. Min første anmodning er: 'Hvad hvis der ikke fandtes penge?’",
+                    "category": "Akademisk",
+                    "exampleUrl": "https://chatgpt.com/share/67ab2022-4b68-8011-a20e-d71ac5d6781e"
+                  },
+                  {
+                    "id": "270",
+                    "title": "Dialog om nyheder",
+                    "content": "Jeg vil have at du forklarer en nyhedsartikel gennem to personaer du opfinder. Disse to personer har en samtale om artiklen.",
+                    "category": "Personlig",
+                    "exampleUrl": "https://chatgpt.com/share/67ab20ec-c018-8011-a75f-4a5c04b9ab79"
+                  },
+                  {
+                    "id": "271",
+                    "title": "Farvepaletter",
+                    "content": "Jeg vil have, at du opfører dig som en ekspert i farver. Foreslå farvepaletter til et projekt og stil opklarende spørgsmål, hvis du har brug for flere detaljer. Min første anmodning er: 'Hvilke farver bør mine slides om AI være?’",
+                    "category": "Kreativ",
+                    "exampleUrl": "https://chatgpt.com/share/67ab21fe-db84-8011-9b9c-31819b66cf11"
+                  },
+                  {
+                    "id": "272",
+                    "title": "Kontraktudkast",
+                    "content": "Jeg vil have, at du opfører dig som en juridisk kontraktspecialist. Du udarbejder udkast til kontrakter og aftaler, der dækker de nødvendige elementer. Stil opklarende spørgsmål, hvis du er i tvivl. Min første anmodning er: 'Lav en en fortrolighedsaftale mellem mig og en ny leverandør.’",
+                    "category": "Business",
+                    "exampleUrl": "https://chatgpt.com/share/67ab22e1-f108-8011-a80d-4c0539e20b14"
+                  },
+                  {
+                    "id": "273",
+                    "title": "Menu-forslag",
+                    "content": "Jeg vil have, at du opfører dig som en privat kok. Lav en menu til en begivenhed, der inkluderer en forret, hovedret og dessert samt eventuelt forslag til drikkevarer. Min første anmodning er: 'Lav en menu jeg selv kan lave til fire gæster jeg får forbi i weekenden.’",
+                    "category": "Kreativ",
+                    "exampleUrl": "https://chatgpt.com/share/67ab239e-8e84-8011-b898-e70638a026ce"
+                  },
+                  {
+                    "id": "274",
+                    "title": "LinkedIn-profil forbedring",
+                    "content": "Jeg vil have, at du opfører dig som en LinkedIn-optimeringsekspert. Gennemgå min LinkedIn-profil og foreslå konkrete forbedringer.",
+                    "category": "Personlig",
+                    "exampleUrl": "https://chatgpt.com/share/67ab248b-eee8-8011-b070-66645b04ebbc"
                   }
 ];
